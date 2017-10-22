@@ -1,0 +1,19 @@
+@font-face {
+        font-family: "Computer Modern";
+	src: url("../fonts/computer-modern-font/cmunbx.otf");
+}
+
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+  background:-moz-radial-gradient(#fff, #ccc);
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+}
+
+a {
+	color: #000;
+  text-decoration:none;
+}
